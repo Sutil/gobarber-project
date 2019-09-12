@@ -1,0 +1,6 @@
+[submodule "gobarber-backend"]
+	path = gobarber-backend
+	url = git@github.com:Sutil/gobarber-backend.git
+[submodule "gobarber-frontend"]
+	path = gobarber-frontend
+	url = git@github.com:Sutil/gobarber-frontend.git
