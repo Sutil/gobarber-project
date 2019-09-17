@@ -4,3 +4,6 @@
 [submodule "gobarber-frontend"]
 	path = gobarber-frontend
 	url = git@github.com:Sutil/gobarber-frontend.git
+[submodule "gobarber-mobile"]
+	path = gobarber-mobile
+	url = git@github.com:Sutil/gobarber-mobile.git
